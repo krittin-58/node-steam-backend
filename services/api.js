@@ -2,7 +2,7 @@ var axios = require('axios');
 
 const STEAM_STORE_API_URL = 'https://store.steampowered.com';
 // const STEAM_WEB_API_URL = 'https://api.steampowered.com';
-// const STEAM_API_KEY = '386CB766EA1FB3DB8C92DF89C722FA78';
+// const STEAM_API_KEY = '<STEAM API KEY>';
 
 axios.defaults.baseURL = STEAM_STORE_API_URL;
 
