@@ -46,7 +46,7 @@ router.get('/appdetails/:id', async function (req, res, next) {
 
 //// START STEAM WEB API ////
 var steam_web_url = 'https://api.steampowered.com';
-var steam_web_api_key = '386CB766EA1FB3DB8C92DF89C722FA78';
+var steam_web_api_key = '<STEAM API KEY>';
 
 var getNewsApp;
 var getGlobalAchievement;
